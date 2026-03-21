@@ -65,3 +65,15 @@ To run the experiments with the EfficientNet on the task of Glasses detection, e
 ```bash
 pythontrain_fairface_efficientnet_fea.py
 ```
+## Acknowledgement & Citation
+
+If you find this repository useful for your research, please consider citing our [paper](https://ieeexplore.ieee.org/abstract/document/11435296):
+
+```bibtex
+@article{luo2026demographic,
+  title={On Demographic Group Fairness Guarantees in Deep Learning},
+  author={Luo, Yan and Wen, Congcong and Shi, Min and Huang, Hao and Fang, Yi and Wang, Mengyu},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2026},
+  publisher={IEEE}
+}
