@@ -1,6 +1,6 @@
 # On Demographic Group Fairness Guarantees in Deep Learning
 
-The code for our manuscript submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence entitled **On Demographic Group Fairness Guarantees in Deep Learning**. If you have any questions, please email <harvardophai@gmail.com> and <harvardairobotics@gmail.com>.
+The code for our paper published in IEEE Transactions on Pattern Analysis and Machine Intelligence entitled **On Demographic Group Fairness Guarantees in Deep Learning**. If you have any questions, please email <harvardophai@gmail.com> and <harvardairobotics@gmail.com>.
 
 ## Dataset
 
